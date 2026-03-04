@@ -1,4 +1,4 @@
-## 1.0.3
+## 1.0.4
 
 - Initial release
 - Added humanReadableNumber() utility function
