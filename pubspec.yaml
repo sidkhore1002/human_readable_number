@@ -1,7 +1,14 @@
 name: human_readable_number
 description: Dart package to convert numbers into human-readable format like 1.2K, 1L, 1Cr.
-version: 1.0.0
-homepage: https://github.com/yourusername/human_readable_number
+version: 1.0.1
+homepage: https://github.com/sidkhore1002/human_readable_number
+
+topics:
+  - dart
+  - flutter
+  - utility
+  - number-format
+  - human-readable
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
