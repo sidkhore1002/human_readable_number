@@ -1,5 +1,15 @@
 library human_readable_number;
 
+/// Converts a number into a human-readable format.
+///
+/// Examples:
+/// ```dart
+/// humanReadableNumber(1200); // 1.2K
+/// humanReadableNumber(100000, indianFormat: true); // 1L
+/// ```
+///
+/// [value] is the number to format.
+/// Set [indianFormat] to true for Indian numbering system.
 String humanReadableNumber(
   num value, {
   int decimals = 1,
